@@ -1,3 +1,29 @@
 <resources>
+
+    <!-- Common begin -->
     <string name="app_name">MedHelper</string>
+    <!-- Common end -->
+
+    <!-- Main Activity begin -->
+    <string name="activity_main_add_button_content_description">Add data to database</string>
+    <string name="activity_main_add_dialog_title">Add values</string>
+    <string name="activity_main_add_dialog_negative_button">Cancel</string>
+    <string name="activity_main_add_dialog_positive_button">Submit</string>
+    <string name="activity_main_add_dialog_systolic_pressure_hint">Systolic pressure</string>
+    <string name="activity_main_add_dialog_diastolic_pressure_hint">Diastolic pressure</string>
+    <string name="activity_main_add_dialog_heart_rate_hint">Heart rate</string>
+    <!-- Main Activity end -->
+
+    <!-- MedInfo Item begin -->
+    <string name="med_info_item_separator">/</string>
+    <string name="med_info_time_pattern">HH:mm</string>
+    <string name="med_info_date_pattern">dd MMMM</string>
+    <!-- MedInfo Item end -->
+
+    <!-- Messages begin -->
+    <string name="message_incorrect_data">Incorrect data! Cannot save!</string>
+    <string name="message_data_saved">Data saved!</string>
+    <string name="message_database_error">Database error!</string>
+    <!-- Messages end -->
+
 </resources>

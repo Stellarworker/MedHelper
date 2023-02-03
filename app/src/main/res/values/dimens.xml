@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Activity Main begin -->
+    <dimen name="activity_main_add_button_margin_end">20dp</dimen>
+    <dimen name="activity_main_add_button_margin_bottom">20dp</dimen>
+    <dimen name="activity_main_add_button_max_image_size">25dp</dimen>
+    <!-- Activity Main end -->
+
+    <!-- MedInfo Item begin -->
+    <dimen name="med_info_item_root_margin_horizontal">5dp</dimen>
+    <dimen name="med_info_item_root_margin_top">5dp</dimen>
+    <dimen name="med_info_item_root_corner_radius">5dp</dimen>
+    <dimen name="med_info_item_root_elevation">5dp</dimen>
+    <dimen name="med_info_item_container_margin_vertical">10dp</dimen>
+    <dimen name="med_info_item_time_margin_horizontal">5dp</dimen>
+    <dimen name="med_info_item_time_margin_start">30dp</dimen>
+    <dimen name="med_info_item_time_text_size">15sp</dimen>
+    <dimen name="med_info_item_systolic_pressure_margin_horizontal">5dp</dimen>
+    <dimen name="med_info_item_systolic_pressure_text_size">20sp</dimen>
+    <dimen name="med_info_item_separator_text_size">20sp</dimen>
+    <dimen name="med_info_item_diastolic_pressure_margin_horizontal">5dp</dimen>
+    <dimen name="med_info_item_diastolic_pressure_text_size">20sp</dimen>
+    <dimen name="med_info_item_heart_rate_container_margin_end">30dp</dimen>
+    <dimen name="med_info_item_heart_margin_horizontal">5dp</dimen>
+    <dimen name="med_info_item_heart_rate_margin_horizontal">5dp</dimen>
+    <dimen name="med_info_item_heart_rate_text_size">20sp</dimen>
+    <dimen name="med_info_date_margin_horizontal">5dp</dimen>
+    <dimen name="med_info_date_margin_vertical">5dp</dimen>
+    <dimen name="med_info_date_text_size">20sp</dimen>
+    <!-- MedInfo Item end -->
+
+</resources>
